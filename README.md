@@ -1,7 +1,7 @@
 # FUTURE_DS_03
 Data Science & Analytics Internship Program
 
-# Student Satisfaction Survey Analysis
+## Student Satisfaction Survey Analysis
 This notebook performs a sentiment analysis on a student satisfaction survey dataset.
 
 ## Data Loading and Cleaning
